@@ -7,15 +7,15 @@
   "share_description_artist": "🎶 Mari dengarkan untaian hikmah dan kajian terbaik di Audio Hijrah! 🕊️",
 
   "version_code": 1,
-  "method_version_code": "OFF",
+  "method_version_code": "on",
   "update_method": "ON",
-  "update_url": "https://ia601007.us.archive.org/11/items/sgsfgrge2/sgsfgrge2.apk",
+  "update_url": "https://play.google.com/store/apps/details?id=fire.horse.id.Audio.Hijrah",
 
 
 
   "admob": {
     "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "app_open_main": "ca-app-pub-3940256099942544/9257395912",
+    "app_open_main": "ca-app-pub-3940256099942544/9257395912xxx",
 
     "banner_HomeScreen": "ca-app-pub-3940256099942544/9214589741",
     "banner_PlayerScreen": "ca-app-pub-3940256099942544/9214589741",
