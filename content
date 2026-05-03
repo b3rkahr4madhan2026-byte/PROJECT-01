@@ -1,0 +1,780 @@
+{
+    "artists": [
+        {
+            "id": "artist_MuhammadTahaAlJunayd",
+            "name": "Muhammad Taha Al Junayd",
+            "nick_biografi": "bio_artist_MuhammadTahaAlJunayd",
+            "image_url": "https://cdn-images-3.listennotes.com/podcasts/izzudin-al-qossam/surat-yusuf-muhammad-thaha-qUYpBWzvojM-SwAtUMFJVz8.1400x1400.jpg",
+            "genre": "Qori"
+        },
+        {
+            "id": "artist_SalimBahanan",
+            "name": "Salim Bahanan",
+            "nick_biografi": "bio_artist_SalimBahanan",
+            "image_url": "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/project-desc/49053/2eabf2de2d1e883a7058d2e0edbbb519719cf893.jpeg",
+            "genre": "Murottal"
+        },
+        {
+            "id": "artist_AiKhodijah",
+            "name": "Ai Khodijah",
+            "nick_biografi": "bio_artist_AiKhodijah",
+            "image_url": "https://yt3.googleusercontent.com/5Lz0tWidgiQAhfHGV9EZ0jralSv0Y0Z6NhpleTdwI7FkgWt5sQ_Ac-ibc0ayePtwGTiZhzq6qRU=s160-c-k-c0x00ffffff-no-rj",
+            "genre": "Sholawat"
+        },
+        {
+            "id": "artist_UstdAdiHidayat",
+            "name": "Ustadz Adi Hidayat, Lc. MA.",
+            "nick_biografi": "bio_artist_UstdAdiHidayat",
+            "image_url": "https://quantumakhyar.com/wp-content/uploads/2017/03/uah.png",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "artist_UstdHananAtaki",
+            "name": "Ustadz Hanan Attaki, Lc.",
+            "nick_biografi": "bio_artist_UstdHananAtaki",
+            "image_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "artist_UstdAbdulShomad",
+            "name": "Ustadz Abdul Somad, Lc. MA.",
+            "nick_biografi": "bio_artist_UstdAbdulShomad",
+            "image_url": "https://pict.sindonews.net/dyn/850/pena/news/2022/06/17/174/801083/merinding-begini-pesan-ustaz-abdul-somad-jika-dirinya-meninggal-dunia-itw.jpg",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "artist_GusIqdam",
+            "name": "Gus Iqdam",
+            "nick_biografi": "bio_artist_GusIqdam",
+            "image_url": "https://cms.disway.id/uploads/91PbWWqgKDBDorh525uecKaGZD21FGSoCeR.png",
+            "genre": "Dakwah"
+        }
+    ],      
+    "manual_biographies": {
+        "bio_artist_MuhammadTahaAlJunayd": {
+            "nama": "Muhammad Taha Al Junayd",
+            "sebutan": "Qori 'Beautiful Voice from Heaven'",
+            "deskripsi_singkat": "Muhammad Taha Al Junayd adalah seorang qori internasional asal Bahrain yang dikenal dunia karena kemerduan suaranya yang luar biasa. Lantunan ayat suci Al-Qur'an yang beliau bawakan sejak usia kanak-kanak telah menjadi inspirasi bagi jutaan orang untuk mencintai dan menghafal Kitab Suci.",
+            "biografi_lengkap": "Lahir di Manama, Bahrain pada tahun 1994, Muhammad Taha Al Junayd menjadi fenomena global sejak usia yang sangat dini. Beliau mulai dikenal luas ketika rekaman murottal-nya saat masih kecil tersebar di berbagai belahan dunia. Suaranya yang jernih, tenang, dan sangat menyentuh hati membuatnya mendapatkan julukan 'Beautiful Voice from Heaven' oleh para pendengarnya.\n\nBeliau menempuh pendidikan dasar penghafalan Al-Qur'an di Pusat Penghafal Al-Qur'an Abdurrahman Ajur di kota Hamad, Bahrain. Keistimewaan Taha Al Junayd terletak pada orisinalitas irama (langgam) yang beliau bawakan; beliau tidak sekadar meniru imam-imam besar lainnya, melainkan memiliki karakter vokal yang unik yang mampu memberikan nuansa kedamaian bagi siapa pun yang mendengarkannya.\n\nSeiring bertambahnya usia, Muhammad Taha Al Junayd tetap konsisten di jalan dakwah melalui seni tilawah. Beliau sering dipercaya menjadi imam di berbagai masjid besar di Bahrain dan aktif dalam kegiatan-kegiatan keagamaan tingkat internasional. Meskipun kini telah dewasa, rekaman-rekaman legendaris beliau saat masih kecil tetap menjadi salah satu rujukan utama bagi anak-anak di seluruh dunia dalam belajar melantunkan ayat suci Al-Qur'an dengan merdu dan benar."
+        },
+        "bio_artist_SalimBahanan": {
+            "nama": "Salim Bahanan",
+            "sebutan": "Hafiz Al-Qur'an & Qori Muda",
+            "deskripsi_singkat": "Salim Bahanan adalah seorang hafiz (penghafal) Al-Qur'an dan qori muda berbakat yang dikenal secara luas melalui suara merdunya. Beliau merupakan salah satu figur penting dalam menginspirasi generasi muda Indonesia untuk lebih mencintai dan mendalami interaksi dengan Al-Qur'an lewat media digital.",
+            "biografi_lengkap": "Salim Bahanan lahir di Jakarta pada 19 September 1992. Beliau mulai dikenal publik secara luas sejak bergabung dalam kelompok pemuda penghafal Al-Qur'an, 'The Rabbanians'. Karakter suaranya yang khas—lembut namun bertenaga—membuat lantunan ayat suci yang beliau bawakan sering kali menjadi viral di berbagai platform media sosial, memberikan nuansa ketenangan bagi siapa pun yang mendengarnya.\n\nSelain memiliki kemampuan vokal yang luar biasa dalam membaca Al-Qur'an, Salim Bahanan juga dikenal karena penampilannya yang modis namun tetap syar'i. Hal ini menjadikannya sosok 'role model' bagi anak muda yang ingin menunjukkan bahwa identitas sebagai seorang Muslim yang taat dan penghafal Al-Qur'an bisa tetap berjalan selaras dengan gaya hidup modern yang positif.\n\nDalam kesehariannya, beliau aktif mengisi berbagai kegiatan tabligh akbar, seminar motivasi hijrah, dan kolaborasi konten edukasi agama. Fokus utama dakwahnya adalah mengajak pemuda untuk tidak hanya sekadar menghafal Al-Qur'an secara tekstual, tetapi juga menjadikan nilai-nilai di dalamnya sebagai pedoman akhlak dan perilaku sehari-hari di era digital."
+        },
+        "bio_artist_AiKhodijah": {
+            "nama": "Ai Khodijah",
+            "sebutan": "Vokalis Sholawat & Penyanyi Religi",
+            "deskripsi_singkat": "Ai Khodijah adalah seorang penyanyi religi berbakat asal Bandung yang menjadi fenomena di dunia musik islami. Melalui karakter suaranya yang lembut dan penuh penghayatan, beliau berhasil menghidupkan kembali kecintaan generasi muda terhadap lantunan sholawat dan lagu-lagu pujian kepada Rasulullah SAW.",
+            "biografi_lengkap": "Lahir di Bandung pada 15 Juli 1998, Ai Khodijah mulai dikenal luas sebagai vokalis utama dari grup musik El Mighwar. Namanya melambung di kancah nasional maupun internasional berkat video-video cover sholawatnya yang viral di YouTube. Dengan pembawaan yang sederhana namun elegan, beliau mampu menyampaikan pesan-pesan spiritual lewat nada yang menyentuh hati berbagai lapisan masyarakat.\n\nKekuatan utama Ai Khodijah terletak pada kejernihan vokalnya yang khas saat membawakan karya-karya populer seperti 'Man Ana' hingga 'Yasir Lana'. Kesuksesannya membuktikan bahwa musik religi dan sholawat tetap memiliki tempat yang sangat istimewa di era modern, bahkan menjadi tren positif di kalangan pendengar muda yang mencari ketenangan batin lewat seni suara.\n\nSelain aktif berkarya melalui platform digital, Ai Khodijah juga sering diundang untuk mengisi berbagai acara religi dan festival musik islami di berbagai daerah. Dedikasinya dalam menyebarkan nilai-nilai Islam melalui seni telah menjadikannya salah satu ikon muslimah inspiratif yang mampu menjaga keseimbangan antara karir bermusik dan syiar dakwah yang santun."
+        },
+        "bio_artist_UstdAdiHidayat": {
+            "nama": "Ustadz Adi Hidayat, Lc., M.A.",
+            "sebutan": "Ulama Pakar Ilmu Al-Qur'an & Hadist",
+            "deskripsi_singkat": "Ustadz Adi Hidayat adalah seorang ulama kharismatik yang dikenal karena kecerdasan luar biasa dalam menghafal detail ayat Al-Qur'an dan referensi kitab-kitab hadist. Beliau merupakan sosok pendidik yang mampu menjelaskan persoalan agama yang kompleks dengan sistematis dan berbasis dalil yang kuat.",
+            "biografi_lengkap": "Lahir di Pandeglang, Banten, pada 28 Agustus 1984, Adi Hidayat menunjukkan kecemerlangan akademik sejak usia dini. Beliau menempuh pendidikan di pondok pesantren hingga melanjutkan studi ke Universitas Al-Azhar, Kairo, Mesir. Tidak berhenti di sana, beliau memperdalam pemahaman keislamannya di Islamic Call College, Tripoli, Libya, yang memberinya landasan kuat dalam penguasaan berbagai disiplin ilmu syariat.\n\nBeliau dikenal luas karena kemampuannya yang fenomenal dalam menghafal letak baris, nomor ayat, hingga posisi halaman dalam mushaf Al-Qur'an serta referensi dalam kitab-kitab hadist besar. Gaya penyampaiannya yang lugas, ilmiah, namun tetap mudah dipahami membuat ceramah-ceramahnya diminati oleh berbagai kalangan, mulai dari akademisi hingga masyarakat umum yang ingin belajar agama secara mendalam.\n\nMelalui lembaga Quantum Akhyar Institute yang didirikannya, Ustadz Adi Hidayat aktif mencetak generasi penghafal Al-Qur'an dan menyebarkan dakwah melalui media digital. Kontribusi beliau dalam dunia pendidikan Islam modern menjadikannya salah satu rujukan utama dalam memahami teks-teks suci secara kontekstual namun tetap berpegang teguh pada kemurnian ajaran para ulama terdahulu."
+        },
+        "bio_artist_UstdHananAtaki": {
+            "nama": "Ustadz Hanan Attaki, Lc.",
+            "sebutan": "Founder Pemuda Hijrah (Shift)",
+            "deskripsi_singkat": "Ustadz Hanan Attaki adalah sosok pendakwah ikonik yang menjadi jembatan spiritual bagi generasi milenial dan Gen Z di Indonesia. Dikenal dengan pembawaannya yang teduh dan gaya bahasa yang relevan, beliau berhasil mengubah wajah dakwah menjadi lebih inklusif dan dekat dengan keseharian anak muda.",
+            "biografi_lengkap": "Lahir di Banda Aceh pada 31 Desember 1981, Tengku Hanan Attaki menghabiskan masa kecilnya dengan kedekatan yang erat terhadap Al-Qur'an. Kecerdasannya membawanya meraih beasiswa di Universitas Al-Azhar, Kairo, Mesir, mengambil spesialisasi Tafsir Al-Qur'an. Di sana, beliau tidak hanya mengasah ilmu agama, tetapi juga melatih kemandirian dengan berbagai pengalaman hidup yang membentuk karakter dakwahnya yang rendah hati.\n\nSekembalinya ke tanah air, beliau menginisiasi gerakan 'Shift' Pemuda Hijrah di Bandung. Gerakan ini menjadi fenomena nasional karena kemampuannya merangkul berbagai komunitas—mulai dari pemain skateboard hingga pecinta otomotif—untuk kembali ke masjid tanpa merasa dihakimi. Strategi dakwahnya yang memanfaatkan media sosial secara estetik menjadikannya salah satu dai digital paling berpengaruh saat ini.\n\nKini, sebagai bagian dari keluarga besar Nahdlatul Ulama (NU), Ustadz Hanan Attaki terus konsisten menyebarkan pesan optimisme. Dengan tagline 'Banyak main, banyak manfaat, banyak pahala, sedikit dosa', beliau mengajarkan bahwa menjadi religius tidak berarti harus meninggalkan kegemaran positif, melainkan mengarahkannya sebagai bentuk ibadah kepada Sang Pencipta."
+        },
+        "bio_artist_UstdAbdulShomad": {
+            "nama": "Prof. H. Abdul Somad Batubara, Lc., MA., D.E.S.A., Ph.D.",
+            "sebutan": "Ulama Pakar Ilmu Hadist & Dai Nusantara",
+            "deskripsi_singkat": "Ustadz Abdul Somad, atau yang akrab disapa UAS, adalah salah satu ulama paling populer di Indonesia yang dikenal karena kedalaman ilmunya dalam bidang hadist dan fiqih. Beliau mampu menyampaikan materi agama yang berat dengan gaya yang lugas, tegas, namun diselingi humor yang cerdas.",
+            "biografi_lengkap": "Lahir di Silo Lama, Asahan, Sumatera Utara pada 18 Mei 1977, Abdul Somad menempuh perjalanan pendidikan yang sangat panjang di institusi Islam ternama dunia. Beliau merupakan lulusan Universitas Al-Azhar (Mesir), kemudian melanjutkan pendidikan S2 di Dar al-Hadith al-Hassania (Maroko), dan meraih gelar Ph.D dari International Islamic University Malaysia. Latar belakang akademik yang kuat ini menjadikannya sosok yang sangat otoritatif dalam menjawab berbagai persoalan umat.\n\nUAS dikenal sebagai 'Dai Sejuta View' karena setiap dokumentasi ceramahnya di platform digital selalu dinantikan oleh jutaan jamaah. Kekuatan utama dakwah beliau terletak pada kemampuannya mengutip kitab-kitab klasik secara presisi serta memberikan penjelasan yang moderat dan komprehensif. Selain aktif berdakwah di masjid-masjid pelosok nusantara hingga mancanegara, beliau juga dihormati sebagai tokoh yang memegang teguh nilai-nilai budaya, terbukti dengan gelar adat 'Datuk Seri Ulama Setia Negara' yang disandangnya.\n\nDalam setiap kehadirannya, Ustadz Abdul Somad konsisten mengajak umat untuk memperkuat persatuan, memperbaiki akhlak, dan mencintai ilmu pengetahuan. Melalui karya tulis dan ceramahnya, beliau terus menjadi inspirasi bagi jutaan Muslim untuk mendalami syariat Islam secara benar dan kontekstual di tengah dinamika zaman modern."
+        },
+        "bio_artist_GusIqdam": {
+            "nama": "Muhammad Iqdam Kholid (Gus Iqdam)",
+            "sebutan": "Pengasuh Majelis Sabilu Taubah",
+            "deskripsi_singkat": "Gus Iqdam adalah pendakwah muda kharismatik asal Blitar yang dikenal dengan gaya dakwah 'dekengan pusat'. Beliau memiliki pendekatan unik yang mampu merangkul semua kalangan, mulai dari santri hingga masyarakat marginal, dengan pesan agama yang menyejukkan dan penuh humor.",
+            "biografi_lengkap": "Lahir di Blitar pada 27 September 1993, Muhammad Iqdam Kholid atau yang akrab disapa Gus Iqdam merupakan cucu dari pendiri Pondok Pesantren Mamba'ul Hikam, Blitar. Beliau menempuh pendidikan agama di bawah bimbingan para ulama sepuh, termasuk di Pondok Pesantren Al-Falah Ploso, Kediri. Latar belakang pesantren yang kuat ini dipadukan dengan kepribadiannya yang rendah hati dan merakyat.\n\nNama beliau melejit secara nasional melalui Majelis Sabilu Taubah yang didirikannya pada tahun 2018. Majelis ini menjadi fenomena karena jemaahnya yang berasal dari berbagai latar belakang, termasuk mereka yang baru mulai belajar agama. Istilah-istilah seperti 'Dekengan Pusat' dan 'ST Nyell' menjadi bahasa ikonik yang menggambarkan kedekatan hamba dengan Sang Pencipta serta solidaritas tanpa batas di antara jemaahnya.\n\nDalam dakwahnya, Gus Iqdam menekankan bahwa pintu taubat dan kebaikan terbuka bagi siapa saja tanpa terkecuali. Beliau sering menyampaikan pesan agar umat Islam selalu merasa ceria dan tenang dalam beribadah. Kehadirannya memberikan warna baru dalam dunia dakwah digital, membuktikan bahwa nilai-nilai tradisi pesantren tetap bisa relevan dan sangat dicintai oleh generasi masa kini."
+        }
+    },
+
+    
+    "albums": [
+        {
+            "id": "album_MuhammadTahaAlJunayd",
+            "title": "VOL. 1 - Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
+            "cover_url": "https://assets-a1.kompasiana.com/items/album/2020/09/14/syaikh-muhammad-thaha-al-junayd-5f5f6d29097f36526651b3b2.jpg",
+            "year": 2026 ,
+            "genre": "Qari"
+        },
+        {
+            "id": "album_Adzan",
+            "title": "Koleksi Adzan",
+            "artist_id": "artist_AudioHijrah",
+            "artist_name": "Audio Hijrah",
+            "cover_url": "https://cdn.antaranews.com/cache/1200x800/2018/12/adzan.jpg",
+            "year": 2026 ,
+            "genre": "Adzan"
+        },
+        {
+            "id": "album_SalimBahanan",
+            "title": "Murottal Qur'an - Salim Bahanan",
+            "artist_id": "artist_SalimBahanan",
+            "artist_name": "Salim Bahanan",
+            "cover_url": "https://cdn-images.dzcdn.net/images/cover/7e07227e53e62086a3ca3c102d7d7ddd/1900x1900-000000-80-0-0.jpg",
+            "year": 2026 ,
+            "genre": "Murottal"
+        },
+        {
+            "id": "album_AiKhodijah",
+            "title": "Kompilasi Sholawat Ai Khodijah",
+            "artist_id": "artist_AiKhodijahe",
+            "artist_name": "Ai Khodijah",
+            "cover_url": "https://i.scdn.co/image/ab67616d0000b273997481f65ad3d0e11e38d09c",
+            "year": 2024 ,
+            "genre": "Sholawat"
+        },
+        {
+            "id": "album_UstdAdiHidayat",
+            "title": "Dakwah Kajian Ilmu Ustadz Adi Hidayat",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp9wE_vg_D1F-WFc1x6kkr7s8MDGt-IqHujGJCLbMa391UKJ1AoZqwLc4-wFNGvUYoKIoDFwaLHPY1PF2-OJXPmIPMBqOYQjC4pSRK-1s0CrqJUIiuPkOCxh4F5CXHOimJ7iRd_ECXBxFeGkDU8K3WjYilCbcceHDcehODzMbj9hthNMzVCmqbbNSPFP_B/s1280/WhatsApp%20Image%202025-09-01%20at%2011.08.45%20(2).jpeg",
+            "year": 2026 ,
+            "genre": "Dakwah"
+        },
+        {
+            "id": "album_UstdHananAtaki",
+            "title": "Dakwah Kajian Ilmu Ustadz Hanan Attaki",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "cover_url": "https://i.pinimg.com/736x/a8/a5/a1/a8a5a11a940f3366a824fea0e4bcd3ac.jpg",
+            "year": 2026,
+            "genre": "Dakwah"
+        },
+        {
+            "id": "album_UstdAbdulShomad",
+            "title": "Dakwah Kajian Ilmu Ustadz Abdul Somad",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "cover_url": "https://info.kapuashulukab.go.id/wp-content/uploads/2023/02/Ustaz_Abdul_Somad.jpg",
+            "year": 2026,
+            "genre": "Dakwah"
+        },
+        {
+            "id": "album_GusIqdam",
+            "title": "Kompilasi Pengajian Gus Iqdam",
+            "artist_id": "artist_GusIqdam",
+            "artist_name": "Gus Iqdam",
+            "cover_url": "https://www.zonamalang.com/wp-content/uploads/2023/12/407050083_18370995559072682_2058376210716240240_n-1-768x777.jpg",
+            "year": 2026,
+            "genre": "Dakwah"
+        }
+    ],
+    "songs": [
+        {
+            "id": "song_Adzan_001",
+            "title": "Adzan Subuh",
+            "artist_id": "artist_AudioHijrah",
+            "artist_name": "Audio Hijrah",
+            "album_id": "album_Adzan",
+            "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/ADZAN%20SUBUH--.mp3",
+            "cover_url": "https://media-cdn.tripadvisor.com/media/photo-s/01/6a/ff/8e/subuh-in-mecca.jpg",
+            "duration": "03:41",
+            "genre": "Adzan"
+        },
+        {
+            "id": "song_Adzan_002",
+            "title": "Adzan by. Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
+            "album_id": "album_Adzan",
+            "audio_url": "https://dn711000.ca.archive.org/0/items/Mp3CollectionAdzan/Adzan%20-%20Muhammad%20Taha%20Al-Junaid.mp3",
+            "cover_url": "https://i1.sndcdn.com/artworks-000050948082-nxgvaf-t500x500.jpg",
+            "duration": "02:33",
+            "genre": "Adzan"
+        },
+        {
+            "id": "song_SalimBahanan_001",
+            "title": "Surah Al Waqiah - Salim Bahanan",
+            "artist_id": "artist_SalimBahanan",
+            "artist_name": "Salim Bahanan",
+            "album_id": "album_SalimBahanan",
+            "audio_url": "https://dn711001.ca.archive.org/0/items/surahalwaqiahsalimbahanan/Surah%20Al%20Waqiah%20Salim%20Bahanan.mp3",
+            "cover_url": "https://yt3.googleusercontent.com/3KwLfYdtOYcxtYsub7PfHhEk5hFWpw9H9OfHo6n5o2f8wiJ8WnjH1ArPx21P2offm_O-9m2ZFf8=s160-c-k-c0x00ffffff-no-rj",
+            "duration": "13:15",
+            "genre": "Murottal"
+        },
+        {
+            "id": "song_SalimBahanan_002",
+            "title": "Surah Al-A'la - Salim Bahanan",
+            "artist_id": "artist_SalimBahanan",
+            "artist_name": "Salim Bahanan",
+            "album_id": "album_SalimBahanan",
+            "audio_url": "https://dn710301.ca.archive.org/0/items/suratalalasalimbahanan/Surat%20Al%20Ala%20Salim%20Bahanan.mp3",
+            "cover_url": "https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/user/555734/23_555734_1515997485_29094_s.jpg",
+            "duration": "02:01",
+            "genre": "Murottal"
+        },
+        {
+            "id": "song_AiKhodijah",
+            "title": "Bahebbak Wa Wabaridak",
+            "artist_id": "artist_AiKhodijah",
+            "artist_name": "Ai Khodijah",
+            "album_id": "album_AiKhodijah",
+            "audio_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/sholawat-1/file_1683364652941.mp3",
+            "cover_url": "https://www.dailysia.com/wp-content/uploads/2021/02/Ai-Khodijah_4.jpg",
+            "duration": "3:23",
+            "genre": "Sholawat"
+        },
+        {
+            "id": "song_AiKhodijah_001",
+            "title": "Ya Tarim",
+            "artist_id": "artist_AiKhodijah",
+            "artist_name": "Ai Khodijah",
+            "album_id": "album_AiKhodijah",
+            "audio_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/sholawat-1/YA%20TARIM%20-%20AI%20KHODIJAH%20(cover).m4a",
+            "cover_url": "https://i.ytimg.com/vi/dkgbuiBruPg/maxresdefault.jpg",
+            "duration": "4:51",
+            "genre": "Sholawat"
+        },
+        {
+            "id": "song_UstdAdiHidayat_001",
+            "title": "Perbaiki Shalatmu Maka Allah Akan Permudah Urusanmu",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://raw.githubusercontent.com/b3rkahr4madhan2026-byte/db-musik/refs/heads/main/Perbaiki%20Shalatmu%20Maka%20Allah%20Akan%20Permudah%20Urusanmu%20-%20Ustadz%20Adi%20Hidayat.mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/27173042/Ustadz-Adi-Hidayat91.jpg",
+            "duration": "50:00",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_002",
+            "title": "Teori Dalam Mencari Rizki - Ustadz Adi Hidayat, Lc. MA. ",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TeoriDalamMencariRizki-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/214/2024/05/18/IMG_20240518_125215-2644735928.jpg",
+            "duration": "17:52",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_003",
+            "title": "Tiga Amalan Utama Ramadhan - Ustadz Adi Hidayat, Lc, MA ",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/TigaAmalanUtamaRamadhan.mp3",
+            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/08/Biografi-Ustadz-Adi-Hidayat-1-300x300.jpg",
+            "duration": "41:39",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_004",
+            "title": "Aku Ingin Taubat - Ustadz Adi Hidayat, Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AkuInginTaubat-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/11/02094726/Ustadz-Adi-Hidayat89.jpg",
+            "duration": "11:35",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_005",
+            "title": "Amalan Setelah Sholat - Ust Adi Hidayat Lc , MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AmalanSetelahSholat-UstAdiHidayatLcMa.mp3",
+            "cover_url": "https://suaramuhammadiyah.id/storage/posts/image/Adi_Hidayat-20240322094141.jpeg",
+            "duration": "2:24:15",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_006",
+            "title": "Allah Benci 3 Perilaku ini - Ust Adi Hidayat Lc , MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AllahBenci3PerilakuIni.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/197/2024/07/18/AdiHidayat-2263535483.jpg",
+            "duration": "17:09",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_007",
+            "title": "Kajian Tauhid Meneladani Rosulullah - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/kajianTauhidMeneladaniRosulullah-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPhIiS8RTh1zGO3qo9S9XsaQ8TANKkRvWoLfwlJS_XQUgW80885R56r97MUgGGPMxq9sQx1bVqPQshLkhBKdl5C3y3YeDEePtqPGUhTydTFRx07eZrE9SyTxKlBbdmstFPv9D4kk-RKY/s584/images+%25281%2529.jpg",
+            "duration": "01:12:13",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_008",
+            "title": "Tanya Jawab Keduluan Dikhitbah Orang - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/tanyaJawabKeduluanDikhitbahOrang-UstAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/07/06/Ustadz-Adi-Hidayat-Terbaru-Muharram-23724179.jpg",
+            "duration": "16:01",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_009",
+            "title": "Cara Mudah Menghafal Al Quran - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/Ustadz_Adi_Hidayat___Cara_Mudah_Menghafal_Al_Quran.mp3",
+            "cover_url": "https://cdn.ayojakarta.com/crop/original/medias/2025/08/19/318148625.jpeg",
+            "duration": "30:56",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_010",
+            "title": "Sholat sunah setelah sholat Wajib - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-SholatSunahSetelahSholatWajib.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/06/10/Ustadz-Adi-Hidayat-923969437.jpg",
+            "duration": "01:49:14",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_011",
+            "title": "Ibadah Jum'at Dengan Tuntunan Al Qur-an & Sunnah Rasulullah SAW - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-IbadahJum-atDenganTuntunanAlQur-anDanSunnahRasulullahSaw.mp3",
+            "cover_url": "https://thumb.viva.id/vivajatim/665x374/2023/12/11/6576d371abb7f-ustadz-adi-hidayat_jatim.jpg",
+            "duration": "30:49",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_012",
+            "title": "Fiqh Sholat (Manfaat Sholat) - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/UstadzAdiHidayatLcMa-FiqhSholatmanfaatSholat7Januari2017.mp3",
+            "cover_url": "https://media.suara.com/pictures/653x366/2024/05/16/81823-ustaz-adi-hidayat-lc-ma.jpg",
+            "duration": "01:40:57",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_013",
+            "title": "Antara Manhaj & Madzhab - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraManhajMadzhab.mp3",
+            "cover_url": "https://asset.kompas.com/crops/w_2xpyoqF3RE3yIiMh9JxbRPbDU=/82x0:1462x920/1200x800/data/photo/2024/12/09/67567fa60d1c2.png",
+            "duration": "02:00:19",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_014",
+            "title": "Antara Pakai Tidak Pakai - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraPakaiTidakPakai-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://asset.tribunnews.com/5r_KnEEopxRElhheD0gA59IU7bA=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/aceh/foto/bank/originals/ustaz-adi-hidayat-uah.jpg",
+            "duration": "36:14",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_015",
+            "title": "Antara Salah Paham atau Paham yang Salah - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/AntaraSalahPahamAtauPahamYangSalah-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://hajiassets.hajinews.co.id/wp-content/uploads/2024/03/19180021/Ustadz-Adi-Hidayat-soal-imsak.jpg",
+            "duration": "01:17:53",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_016",
+            "title": "Apa Itu Islam - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuIslam-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://pict.sindonews.net/dyn/480/pena/news/2021/05/31/15/442764/act-dukung-aksi-ustaz-adi-hidayat-suratan-takdir-lawan-kezaliman-akan-banyak-tantangan-ryh.jpg",
+            "duration": "28:39",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_017",
+            "title": "Apa Itu Mazhab & Apakah Kita Bermazhab - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuMazhabDanApakahKitaBermazhab.mp3",
+            "cover_url": "https://cdn0-production-images-kly.akamaized.net/cSCGLTTnn30Z3Kb594u435yD7mY=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/5031293/original/031475000_1733056161-Ustadz_Adi_Hidayat_nafassubuh.jpg",
+            "duration": "42:22",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_018",
+            "title": "Apa Itu Musik dan Bagaimana Hukumnya - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuMusikDanBagaimanaHukumnya-UstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://cdn-jpr.jawapos.com/images/7/2024/12/09/adi-hidayat-3929635519.jpg",
+            "duration": "12:40",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_019",
+            "title": "Apa itu Sholat Hajad - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://dn710807.ca.archive.org/0/items/Ust.AdiHidayat/ApaItuSholatHajad-UstadzAdiHidayatLc.Ma.mp3",
+            "cover_url": "https://mirror.mui.or.id/wp-content/uploads/2020/08/Ust-Adi-Hidayat.jpeg",
+            "duration": "24:28",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_020",
+            "title": "Apa Manfaatnya - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://ia800604.us.archive.org/24/items/Ust.AdiHidayat/ApaManfaatnya-Ust.AdiHidayatLcMa-KajianUstadzAdiHidayatLcMa.mp3",
+            "cover_url": "https://pict.sindonews.net/dyn/1440/pena/news/2025/03/27/69/1548637/isi-ceramah-ustaz-adi-hidayat-yang-membuat-presiden-prabowo-menangis-igy.jpg",
+            "duration": "00:59",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAdiHidayat_021",
+            "title": "Apa yang Dilakukan Rasulullah SAW setelah Dikumandangkan Adzan Subuh - Ust Adi Hidayat Lc, MA",
+            "artist_id": "artist_UstdAdiHidayat",
+            "artist_name": "Ustadz Adi Hidayat, Lc. MA.",
+            "album_id": "album_UstdAdiHidayat",
+            "audio_url": "https://ia600604.us.archive.org/24/items/Ust.AdiHidayat/ApaYangDilakukanRasulullahSawSetelahDikumandangkanAdzanSubuhust.AdiHidayatLcMa.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/124/2024/06/28/Kajian-Ustadz-Adi-Hidayat-1746073225.jpg",
+            "duration": "01:07:05",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_001",
+            "title": "Aku Mencintaimu Karena Allah - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Aku%20Mencintaimu%20Karena%20Allah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/221210756_381521706680867_1699091983836608815_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=M_JxULBhV74Q7kNvwGavymP&_nc_oc=AdqAlmm5VyZMwD7crQUYIcr0NdaBjvnx6pU29giJItJCG4qLFedFtk5vH1mM_HFEquOc57sSR8m2iD14JjaairXE&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=TAq-Lsi_7IYOizcpjvHEBQ&_nc_ss=7a389&oh=00_Af34ok6wjnusNvmkA0ncqIJ7Yc9otgzQQSSxtn3245ewfA&oe=69D505DC",
+            "duration": "01:13:40",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_002",
+            "title": "Allah Lebih Tahu Apa Yang Terbaik Untuk Kita - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Allah%20Lebih%20Tahu%20Apa%20Yang%20Terbaik%20Untuk%20Kita%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://yt3.googleusercontent.com/IYQTrJMSX9x58JIN3pyxsU66B6iHTB-JI9uCWt1Qsr9TxXm_qClxofYeSWa3uP1H2cttZVHu=s900-c-k-c0x00ffffff-no-rj",
+            "duration": "51:03",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_003",
+            "title": "Apabila Wanita Muslimah Jatuh Cinta - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Apabila%20Wanita%20Muslimah%20Jatuh%20Cinta%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIr479sguKyGtqPBPUKXaOn_xgYBggAUS9iYv5DMtQa3KLK3c6C9ronM5IXcIBREorowFjQg0_wKYJfJwrxBuialj41eJUQDvDUxFShoWWbHougyHjr0tFz3E38fX8e0bnTUpya-P0mXW/s640/ustadz+hanan+attaki.jpg",
+            "duration": "51:50",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_004",
+            "title": "Baper Itu Ketika - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Baper%20Itu%20Ketika%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://images.noiceid.cc/rss/8734d939-c658-4547-89be-cd77372bfc94-content-3917446-1584892945618-defc47c56f4ca.jpg",
+            "duration": "01:11:54",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_005",
+            "title": "Hubungan Antara Istigfar Dengan Jodoh - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://ia601600.us.archive.org/19/items/CeramahUstHananAttaki/Hubungan%20Antara%20Istigfar%20Dengan%20Jodoh%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.blok-a.com/wp-content/uploads/2024/02/Ustadz-Hanan-Attaki.jpg",
+            "duration": "01:09:56",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_006",
+            "title": "Jomblo Mencari Cinta - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Jomblo%20Mencari%20Cinta%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/04/03/2151782492.jpg",
+            "duration": "01:15:11",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_007",
+            "title": "Keajaiban Istigfar - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Keajaiban%20Istigfar%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://ibtimes.id/wp-content/uploads/2025/03/Ustadz-Hanan-Attaki-780x569-1.jpg",
+            "duration": "01:24:13",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_008",
+            "title": "Kisah - Kisah Inspirasi Dari Al Quran Sebagai Pedoman Hidup - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Kisah%20-%20Kisah%20Inspirasi%20Dari%20Al%20Quran%20Sebagai%20Pedoman%20Hidup%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://kilasjatim.com/wp-content/uploads/2023/05/33902_ustadz.jpeg",
+            "duration": "01:11:47",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_009",
+            "title": "Kisah Inspiratif Nabi Ayyub AS - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Kisah%20Inspiratif%20Nabi%20Ayyub%20AS%20-%20Ust.%20%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/5188582/5188582-1597736422721-7246bfe899ebb.jpg",
+            "duration": "01:51:55",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_010",
+            "title": "Math Of God - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Math%20Of%20God%20-%20Ust.%20Hanan%20Attaki.mp3",
+            "cover_url": "https://scontent.fbth8-1.fna.fbcdn.net/v/t39.30808-6/289698178_960054058067325_1491674289412201904_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=BsKPTLwJ4pcQ7kNvwGsLbT6&_nc_oc=AdrlcN5rlT6GHz-riVeOkQzlt5BzqrqYYTRXwVKGhrcmwmnOf5KGoSI8dJmefZHGDAVOl5WurLgIvIIPXL67tMmw&_nc_zt=23&_nc_ht=scontent.fbth8-1.fna&_nc_gid=IZhKKDQ6jR9yEhC9smeiDQ&_nc_ss=7a389&oh=00_Af3nj3_1u-pEiE-B4nIoSx33ZUudrG6qKwwKnsO4QRHXhQ&oe=69D4F91A",
+            "duration": "01:05:06",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_011",
+            "title": "Mengapa Aku Tidak Bahagia Seperti Mereka | Part 1 - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Mengapa%20Aku%20Tidak%20Bahagia%20Seperti%20Mereka%20part1%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://sumeks.disway.id/upload/large/8840909bba5c391574356f65e593a16e.jpeg",
+            "duration": "41:03",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_012",
+            "title": "Mengapa Aku Tidak Bahagia Seperti Mereka | Part 2 - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Mengapa%20Aku%20Tidak%20Bahagia%20Seperti%20Mereka%20part2%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://media.dewiku.com/thumbs/2025/07/16/15084-ustadz-hanan-attaki-instagramayah-amanah/350x230-img-15084-ustadz-hanan-attaki-instagramayah-amanah.jpg",
+            "duration": "32:51",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_013",
+            "title": "Menjadi Wanita yang Dirindukan Surga - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Menjadi%20Wanita%20yang%20Dirindukan%20Surga%20-%20Ustadz%20Hanan%20Attaki.mp3",
+            "cover_url": "https://sumeks.disway.id/upload/large/f0b30e5d4603dd7ad9e1bd65314c024e.jpeg",
+            "duration": "01:33:54",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_014",
+            "title": "Oleh-Oleh Dari Suriah - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://ia801600.us.archive.org/19/items/CeramahUstHananAttaki/Oleh-Oleh%20Dari%20Suriah%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://statik.tempo.co/data/2018/07/21/id_720631/720631_720.jpg",
+            "duration": "01:34:25",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_015",
+            "title": "Remaja Zaman Now, Pemimpin Masa Depan - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Remaja%20Zaman%20Now%2C%20Pemimpin%20Masa%20Depan%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://islami.co/wp-content/uploads/2018/07/hanan-attaki-twitter.jpg",
+            "duration": "03:00:06",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_016",
+            "title": "Rencana Allah Jauh Lebih Baik - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Rencana%20Allah%20Jauh%20Lebih%20Baik%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.tangerangkota.go.id/assets/storage/files/photos/42897kajian-bersama-ustaz-hanan-attaki-ribuan-jemaah-padati-masjid-raya-al-a-zhom-kota-tangerang-42897.jpeg",
+            "duration": "26:31",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_017",
+            "title": "Resep Hidup Bahagia - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Resep%20Hidup%20Bahagia%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://i1.sndcdn.com/artworks-000668643199-36627t-t500x500.jpg",
+            "duration": "45:32",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_018",
+            "title": "Sharing Pengalaman Hidup - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Sharing%20Pengalaman%20Hidup%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://cdn0-production-images-kly.akamaized.net/kiajfK1I1WTdBicjK52zU99V28k=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4099683/original/099502500_1658720811-hananattaki.jpg",
+            "duration": "01:22:36",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_019",
+            "title": "Titik Balik - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Titik%20Balik%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.suarasurabaya.net/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-03-at-21.19.24-840x493.jpeg.webp",
+            "duration": "02:16:37",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdHananAtakit_020",
+            "title": "Woles Aja - Ust. Hanan Attaki, Lc.",
+            "artist_id": "artist_UstdHananAtaki",
+            "artist_name": "Ustadz Hanan Attaki, Lc.",
+            "album_id": "album_UstdHananAtaki",
+            "audio_url": "https://dn710702.ca.archive.org/0/items/CeramahUstHananAttaki/Woles%20Aja%20-%20Ust.%20Hanan%20Attaki%2C%20Lc.mp3",
+            "cover_url": "https://www.biografiku.com/wp-content/uploads/2018/01/HananAttaki.jpg",
+            "duration": "01:04:43",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_001",
+            "title": "3 Tips Yang Ingin Berhijrah - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/3%20Tips%20Yang%20Ingin%20Berhijrah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+            "cover_url": "https://cdn.antaranews.com/cache/1200x800/2019/02/07/ustaddddddd.jpg",
+            "duration": "50:29",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_002",
+            "title": "4 Rahasia Ketenangan Hati - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/4%20Rahasia%20Ketenangan%20Hati%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+            "cover_url": "https://www.kuansingkita.com/wp-content/uploads/2024/09/UAS-2.jpg",
+            "duration": "46:29",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_003",
+            "title": "5 Hal Penting Hidup di Usia 18 Tahun - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/5%20Hal%20Penting%20Hidup%20di%20Usia%2018%20Tahun%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+            "cover_url": "https://www.cakaplah.com/assets/news/18022024/cakaplahcom_u895b_107568.jpg",
+            "duration": "01:10:42",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_004",
+            "title": "6 Tanda kiamat yang telah muncul di Indonesia - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/6%20Tanda%20kiamat%20yang%20telah%20muncul%20di%20Indonesia%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+            "cover_url": "https://cdn.antaranews.com/cache/1200x800/2019/10/29/IMG_20191029_120335-800x533.jpg",
+            "duration": "22:07",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_005",
+            "title": "7 Ciri Kepemimpinan Rasulullah - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/7%20Ciri%20Kepemimpinan%20Rasulullah%20-%20Ust.%20Abdul%20Somad%2C%20Lc.%20MA.mp3",
+            "cover_url": "https://static.republika.co.id/uploads/images/inpicture_slide/ustadz-abdul_220106140902-349.jpg",
+            "duration": "54:37",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_UstdAbdulShomad_006",
+            "title": "Ada 4 Poin Lebih Berharga Daripada Dunia - Ust. Abdul Somad, Lc. MA.",
+            "artist_id": "artist_UstdAbdulShomad",
+            "artist_name": "Ustadz Abdul Somad, Lc. MA.",
+            "album_id": "album_UstdAbdulShomad",
+            "audio_url": "https://dn710907.ca.archive.org/0/items/CeramahUstadzAbdulSomad/Ada%204%20Poin%20Lebih%20Berharga%20Daripada%20Dunia%20%20%20Ustadz%20Abdul%20Somad%2C%20Lc%20%20MA.mp3",
+            "cover_url": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/11/09/ustadz-abdul-shomad-copy-1492290883.jpg",
+            "duration": "55:04",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_GusIqdam_001",
+            "title": "Pengajian Gus Iqdam Oleh Mokel Ben Ra Mati - Gus Iqdam",
+            "artist_id": "artist_GusIqdam",
+            "artist_name": "Gus Iqdam",
+            "album_id": "album_GusIqdam",
+            "audio_url": "https://ia601505.us.archive.org/16/items/pengajian-gus-iqdam-oleh-mokel-ben-ra-mati-hytn-wx-q-0-mo-q/PENGAJIAN%20GUS%20IQDAM%20OLEH%20MOKEL%20BEN%20RA%20MATI%20%5BHYTnWxQ0MoQ%5D.mp3",
+            "cover_url": "https://cdn-1.timesmedia.co.id/images/2023/10/17/Gus-Iqdam.jpg",
+            "duration": "01:31:20",
+            "genre": "Dakwah"
+        },
+        {
+            "id": "song_MuhammadTahaAlJunayd_001",
+            "title": "QS. Al-Kahf - Muhammad Taha Al Junayd",
+            "artist_id": "artist_MuhammadTahaAlJunayd",
+            "artist_name": "Muhammad Taha Al Junayd",
+            "album_id": "album_MuhammadTahaAlJunayd",
+            "audio_url": "https://github.com/b3rkahr4madhan2026-byte/db-musik/raw/refs/heads/main/muhammad-taha-al-junaid-018-al-kahf-33112-8473.mp3",
+            "cover_url": "https://www.assabile.com/media/person/200x256/muhammad-taha-al-junaid.png",
+            "duration": "42:01",
+            "genre": "Qari"
+        }
+    ]
+}
