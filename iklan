@@ -20,7 +20,7 @@
     "app_open_enabled": true,
     "native_ad_size_songs": "small",
     "native_ad_size_albums": "medium",
-    "active_native_provider": "admob"
+    "active_native_provider": "yandex"
   },
   "test_device_ids": [
     "YOUR_TEST_DEVICE_ID_HERE"
