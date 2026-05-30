@@ -11,6 +11,21 @@
   "update_method": "ON",
   "update_url": "https://play.google.com/store/apps/details?id=fire.horse.id.Audio.Hijrah",
 
+  "ad_rules": {
+    "interstitial_cooldown_seconds": 300,
+    "native_cooldown_seconds": 120,
+    "songs_between_interstitial": 3,
+    "native_ad_interval": 6,
+    "recently_played_ad_interval": 4,
+    "app_open_enabled": true,
+    "native_ad_size_songs": "small",
+    "native_ad_size_albums": "medium",
+    "active_native_provider": "admob"
+  },
+  "test_device_ids": [
+    "YOUR_TEST_DEVICE_ID_HERE"
+  ],
+
 
 
   "yandex": {
@@ -130,19 +145,5 @@
     "interstitial_main": "YOUR_INTERSTITIAL_UNIT_ID",
 
     "rewarded_main": "YOUR_REWARDED_UNIT_ID"
-  },
-  "ad_rules": {
-    "interstitial_cooldown_seconds": 300,
-    "native_cooldown_seconds": 120,
-    "songs_between_interstitial": 3,
-    "native_ad_interval": 6,
-    "recently_played_ad_interval": 4,
-    "app_open_enabled": true,
-    "native_ad_size_songs": "small",
-    "native_ad_size_albums": "medium",
-    "active_native_provider": "admob"
-  },
-  "test_device_ids": [
-    "YOUR_TEST_DEVICE_ID_HERE"
-  ]
+  }
 }
