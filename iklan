@@ -18,6 +18,7 @@
 
 
   "ad_rules": {
+    "interval_click_interstisial_yandex" : 8,
     "interstitial_cooldown_seconds": 300,
     "native_cooldown_seconds": 120,
     "songs_between_interstitial": 3,
@@ -30,7 +31,7 @@
     "privacy_url_yandex": "https://yandex.com/legal/confidential/"
   },
   "test_device_ids": [
-    "YOUR_TEST_DEVICE_ID_HERE"
+    "c1f91675-d45c-4a03-9060-f66bcfb93a19"
   ],
   "yandex": {"banner_HomeScreen": "demo-banner-yandex",
     "banner_PlayerScreen": "demo-banner-yandex",
