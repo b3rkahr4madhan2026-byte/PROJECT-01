@@ -33,7 +33,7 @@
   "test_device_ids": [
     "c1f91675-d45c-4a03-9060-f66bcfb93a19"
   ],
-  "yandex": {"banner_HomeScreen": "demo-banner-yandex",
+  "yandex": 
     "banner_HomeScreen": "R-M-19355826-1",
     "banner_PlayerScreen": "R-M-19355826-2",
     "banner_SongScreen": "R-M-19355826-3",
